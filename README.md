@@ -1,14 +1,11 @@
+Telecom Churn Analysis Dashboard <br>
+Tools: Python | Power BI | SQL<br>
 
-Apologies for the confusion. Here's the updated README with <br> tags for line breaks and bullet points for lists:
-
-Telecom Churn Analysis Dashboard
-Tools: Python | Power BI | SQL
-
-Project Overview
+Project Overview<br>
 This project involves a comprehensive analysis of telecom customer churn. Using SQL for data cleaning, Python for predictive modeling, and Power BI for visualization, the dashboard provides valuable insights into customer behavior, churn rate, and forecasts of future churn.
-<br> Presentation Link
+<br> 
 
-Key Features
+Key Features<br>
 Data Analysis & Cleaning <br> Cleaned and processed the telecom dataset using SQL, creating view tables to optimize data extraction.
 <br>
 
@@ -26,4 +23,3 @@ Technologies Used
 SQL: Data cleaning and table creation. <br>
 Python: Machine learning model development. <br>
 Power BI: Dashboard creation and visualization. <br>
-Th
